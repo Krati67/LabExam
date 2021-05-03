@@ -1,1 +1,1 @@
-print("this is LAB exam Practical")
+print("helloworld this is lab execution")
